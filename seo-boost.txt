@@ -1,7 +1,7 @@
-last_seo_boost=2026-08-10T07:42:48Z
+last_seo_boost=2026-08-10T08:00:22Z
 slug=ama-akuoko
 platforms=huggingface+github+pages
-prefer=huggingface
+prefer=wordpress
 hf=https://huggingface.co/0001AMA/ama-akuoko
 public=true
 purpose=machine-intelligence-technical-profile
